@@ -1,5 +1,4 @@
 from mlflow_project.config.configuration import ConfigurationManager
-from mlflow_project.components.data_validation import DataValidation
 from mlflow_project import logger
 from mlflow_project.components.data_transformation import DataTransformation
 from pathlib import Path

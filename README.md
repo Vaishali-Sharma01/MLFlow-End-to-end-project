@@ -65,7 +65,7 @@ open up you local host and port
 
 MLFLOW_TRACKING_URI=https://dagshub.com/Vaishali-Sharma01/MLFlow-End-to-end-project.mlflow \
 MLFLOW_TRACKING_USERNAME=Vaishali-Sharma01 \
-MLFLOW_TRACKING_PASSWORD=56073c3f3bcd51f47998d6fff39f076cc0ea7815 \
+MLFLOW_TRACKING_PASSWORD=********* \
 python script.py
 
 Run this to export as env variables:
@@ -76,7 +76,7 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/Vaishali-Sharma01/MLFlow-End-to-e
 
 export MLFLOW_TRACKING_USERNAME=Vaishali-Sharma01 
 
-export MLFLOW_TRACKING_PASSWORD=56073c3f3bcd51f47998d6fff39f076cc0ea7815
+export MLFLOW_TRACKING_PASSWORD=*********
 
 ```
 
